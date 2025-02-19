@@ -1,6 +1,10 @@
 ![logo](https://raw.githubusercontent.com/mahadevjana8001/mahadevjana8001/refs/heads/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mahadev Jana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">My Name Mahadev Jana is a passionate full-stack developer from India, specializing in both frontend and backend development. With a deep understanding of modern web technologies, Mahadev crafts seamless, user-friendly interfaces while ensuring robust and scalable backend systems.
+
+His expertise spans across React, Flutter, Laravel, Node.js, and databases, allowing him to build high-performance applications that deliver exceptional user experiences. Always eager to learn and innovate, Mahadev thrives on creating efficient, dynamic, and secure web solutions.
+
+Driven by a passion for coding, he continuously explores new technologies, contributing to the ever-evolving world of software development. </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mahadevjana8001/mahadevjana8001/refs/heads/main/coding_gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadevjana8001&label=Profile%20views&color=0e75b6&style=flat" alt="mahadevjana8001" /> </p>
